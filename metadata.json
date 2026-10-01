@@ -1,0 +1,6 @@
+{
+  "name": "Student Performance Prediction System",
+  "description": "Academic Machine Learning system for predicting student academic performance using Random Forest classification, attendance, study hours, and exam scores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
